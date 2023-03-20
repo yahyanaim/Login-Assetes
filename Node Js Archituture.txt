@@ -1,12 +1,12 @@
 How to start a NodeJs Appications :
 
-+ Structure de dossier 
++ Folder Structer
 
-+ Archituctire MVC 
++ Clean Archituctire MVC 
 
-+ Installations ( Express , .env , .gitignore .. ) 
++ Installation Dependencies ( Express , .env , .gitignore .. ) 
 
-+ Creation de Server (Server .js)
++ Server Creation (Server .js)
 
 + APP.js 
 
