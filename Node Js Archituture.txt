@@ -1,0 +1,30 @@
+How to start a NodeJs Appications :
+
++ Structure de dossier 
+
++ Archituctire MVC 
+
++ Installations ( Express , .env , .gitignore .. ) 
+
++ Creation de Server (Server .js)
+
++ APP.js 
+
++ Routes (Users , Auth, Profile .. ) 
+
++ Creations of Controllers (Users , Auth , Profile .. )
+
++ APi Tester with Postman (Whene someone makes an api call it will go to the routes folder which everthing starts, it checks for if there was any api calls to that specific route then it redirects to the logic controllers .)
+
++ Creation of Modals (Schema)
+
++ Creaton BD (Mongo Db Set-up and Comppass)
+
++ Fonction majore of the application 
+
++ Controllers (CRUD)
+
+
+
+
+
